@@ -1,0 +1,34 @@
+[
+    {
+        "producto":"iphone 12 pro max",
+        "cantidad": 32,
+        "click": 312
+    },
+    {
+        "producto":"iphone X",
+        "cantidad": 28,
+        "click": 253
+    },
+    {
+        "producto":"Macbook Air",
+        "cantidad": 21,
+        "click": 218
+    },
+    {
+        "producto":"Samsung A16",
+        "cantidad": 31,
+        "click": 209
+    },
+    {
+        "producto":"Macbook Pro",
+        "cantidad": 19,
+        "click": 180
+    },
+    {
+        "producto":"Notebook Asus",
+        "cantidad": 9,
+        "click": 54
+    }
+    
+   
+]

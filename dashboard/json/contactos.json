@@ -1,0 +1,8 @@
+[
+  {"pedido": 123,  "cliente": "Juan Diaz", "fecha": "01/07/2022", "importe": 1890, "estado": "pago pendiente"},
+  {"pedido": 122,  "cliente": "Cleber Davila", "fecha": "02/07/2022", "importe": 390,  "estado": "completado"},
+  {"pedido": 121,  "cliente": "Laura Vazquez", "fecha": "12/07/2022", "importe": 4010,  "estado": "pago pendiente"},
+  {"pedido": 120,  "cliente": "Washinton Perez", "fecha": "17/07/2022", "importe": 890,  "estado": "completado"},
+  {"pedido": 119,  "cliente": "Pedro Lopez", "fecha": "19/07/2022", "importe": 2220,  "estado": "completado"},
+  {"pedido": 118,  "cliente": "Matias Fernandez", "fecha": "21/07/2022", "importe": 3260,  "estado": "completado"}
+]
